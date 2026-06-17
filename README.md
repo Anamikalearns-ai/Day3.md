@@ -1,5 +1,6 @@
 # Day 3 - Role-Based Prompting
-
+## My Learning Journey
+Day 3 completed by Anamika Dixit.
 ## What I Learned
 Role-Based Prompting means assigning Claude a specific expert persona before asking a question. Instead of generic answers, you get expert-level responses.
 
